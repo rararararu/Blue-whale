@@ -11,7 +11,7 @@
         <p>He is everyone's hero.</p>
         <h1>初出茅庐</h1>
         <p>Cristiano Ronaldo dos Santos Aveiro，简称C罗，1985年2月5日出生于葡萄牙马德拉岛丰沙尔，少年时期便展现出绝佳的足球天赋，被里斯本竞技选中开始了足球生涯。</p>
-        <img src="D:\系统默认\桌面\cr7\2.jpeg">
+        <img src="2.jpeg">
         <img src="D:\系统默认\桌面\cr7\3.jpeg">
         <p>这是故事的起点，少年征程的开始。</p>
         <img src="D:\系统默认\桌面\cr7\5.jpeg">
